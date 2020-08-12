@@ -1,0 +1,105 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "nama": "Dede",
+        "alamat": "Yogyakarta",
+        "umur": 22,
+        "nohp": 938284713987
+      },
+      {
+        "id": 2,
+        "nama": "Permana",
+        "alamat": "Klaten",
+        "umur": 20,
+        "nohp": 2378612308
+      },
+      {
+        "id": 3,
+        "nama": "Bayu",
+        "alamat": "Jepara",
+        "umur": 19,
+        "nohp": 23876129873
+      },
+      {
+        "id": 4,
+        "nama": "Ani",
+        "alamat": "Bantul",
+        "umur": 22,
+        "nohp": 23987489123
+      },
+      {
+        "id": 6,
+        "nama": "Dono",
+        "alamat": "Bekasi",
+        "umur": 20,
+        "nohp": 98324822232
+      },
+      {
+        "id": 7,
+        "nama": "Dedi",
+        "alamat": "Bantul",
+        "umur": 22,
+        "nohp": 938284713987
+      },
+      {
+        "id": 8,
+        "nama": "Perdana",
+        "alamat": "Blora",
+        "umur": 20,
+        "nohp": 2378612308
+      },
+      {
+        "id": 9,
+        "nama": "Budi",
+        "alamat": "Kudus",
+        "umur": 19,
+        "nohp": 23876129873
+      },
+      {
+        "id": 10,
+        "nama": "Ayu",
+        "alamat": "Cilacap",
+        "umur": 22,
+        "nohp": 23987489123
+      },
+      {
+        "id": 11,
+        "nama": "Dinda",
+        "alamat": "Jakarta",
+        "umur": 20,
+        "nohp": 98324822232
+      },
+      {
+        "id": 12,
+        "nama": "Debi",
+        "alamat": "Yogyakarta",
+        "umur": 22,
+        "nohp": 938284713987
+      },
+      {
+        "id": 13,
+        "nama": "Pratama",
+        "alamat": "Magelang",
+        "umur": 20,
+        "nohp": 2378612308
+      },
+      {
+        "id": 14,
+        "nama": "Bowo",
+        "alamat": "Ngawi",
+        "umur": 19,
+        "nohp": 23876129873
+      },
+      {
+        "id": 15,
+        "nama": "Andi",
+        "alamat": "Wates",
+        "umur": 22,
+        "nohp": 23987489123
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
